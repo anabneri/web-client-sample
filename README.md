@@ -9,7 +9,9 @@
 #### Steps to work with WebClient:
  **Creation:**
 * create()/ builder()
+
 **Preparation:**
 * get()/ post()/ uri()/ contentType()/ body()
+
 **Response:**
 * retrieve()/ exchange()
